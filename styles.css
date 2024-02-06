@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.instagram {
+    background-color: white;
+    width: 500px;
+    max-width: 100%;
+    margin-top: 100px;
+}
+.cabecera {
+    height: 50px;
+    margin:0;
+}
+.cabecera-izq1 img {
+    float: left;
+    height: 30px;
+    padding: 1px;
+    margin-top: 10px;
+}
+.cabecera-izq2  {
+    float: left;
+    height: 20px;
+    padding:1px;
+}
+.cabecera-dch img {
+    float: right;
+    height: 30px;
+    padding: 3px;
+    margin-top: 10px;
+}
+.imagen img {
+    width: 100%;
+    height: 100%;
+    margin:0;
+}
+.iconos {
+    height: 30px;
+    margin:0;
+}
+.iconos-izq img {
+    float: left;
+    height: 20px;
+    margin: 5px;
+}
+.iconos-dch img {
+    float: right;
+    height: 20px;
+    margin: 5px;
+}
+p {
+    text-align: left;
+    margin: 5px;
+    padding: 5px;
+}
